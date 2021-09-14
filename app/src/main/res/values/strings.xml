@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeepAR-OpenTok Publisher</string>
+    <string name="request_permission">This app needs access to your camera and mic to make video calls</string>
+    <string name="connect">Connect to OpenTok</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="mask_on">Mask ON</string>
+    <string name="mask_off">Mask OFF</string>
+    <string name="change_mask">Change Mask</string>
+</resources>
