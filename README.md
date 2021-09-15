@@ -22,6 +22,6 @@ _**Installation**_
 6.  Run the app on an Android device, join the Video Session from other device. You can use [Playground](https://tokbox.com/developer/tools/playground/) or other applications for the second endpoint.
 7.  Connect to OpenTok on both endpoints to see the video with DeepAR filter applied.
 
-***Demo video and/or screenshots**
+**Demo video**
 
-TODO
+[![Demo](https://i.vimeocdn.com/video/1242612072_1280x720)](https://vimeo.com/606027334 "")
