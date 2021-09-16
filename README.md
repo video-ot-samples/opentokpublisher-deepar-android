@@ -1,10 +1,10 @@
 **Android OpenTok Publisher with DeepAR integration**
 
-This example demonstrates how to publish into OpenTok session while using DeepAR face filters.
+OpenTok Publisher in Android integrated with DeepAR Android SDK
 
 **Description**
 
-TODO
+This sample application shows how to publish into OpenTok session while using DeepAR filters/effects/masks in Android.
 
 **Getting Started**
 
