@@ -26,4 +26,4 @@ _**Installation**_
 
 *[Below video is subscriber view]*
 
-[![Demo](https://i.vimeocdn.com/video/1242612072_1280x720)](https://vimeo.com/606027334 "")
+[![Demo](https://vumbnail.com/606027334.jpg)](https://player.vimeo.com/video/606027334)
